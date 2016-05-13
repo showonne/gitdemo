@@ -1,3 +1,0 @@
-info from master...
-new line from commit 1
-new line from commit 2
