@@ -1,5 +1,6 @@
-var fn = () => {
+var fn2 = () => {
     document.write('show')
 }
 
-fn()
+
+fn2()
