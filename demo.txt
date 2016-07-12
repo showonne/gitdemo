@@ -1,5 +1,2 @@
 ~~~
 
-content from remote
-
-content should added.
